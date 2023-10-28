@@ -1,0 +1,29 @@
+.card{
+    transition: all 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.15);
+}
+
+
+
+.everywhere{
+    transition: all 0.3s;
+}
+
+.everywhere:hover{
+    transform: scale(1.15);
+}
+
+
+
+/* see detail page laptop description font */
+
+.googlefont{
+
+    font-family: 'Roboto', sans-serif;
+
+
+
+}

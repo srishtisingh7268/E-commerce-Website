@@ -1,0 +1,77 @@
+.text {
+    color: white;
+}
+
+#nav-home>form>button {
+    width: 100%;
+}
+
+#nav-profile>form>button {
+    width: 100%;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: gray;
+}
+
+.space {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.btn.btn-default1 {
+    min-width: 8.5rem;
+    background: black;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid black;
+    margin-left: 1rem;
+}
+
+.btn.btn-default {
+    min-width: 8.5rem;
+    background: #12daa8;
+    color: #103749;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid #12daa8;
+    margin-left: 1rem;
+}
+
+
+.add {
+    color: white !important;
+}
+
+.container.service {
+    height: 12rem;
+    justify-content: center;
+    display: flex !important;
+    align-items: center;
+    font-size: 2.6rem;
+    color: white;
+}
+
+.cardservice {
+        background: #00a388;
+        border-radius: 0.8rem;
+        width: 25%;
+        color: #fff;
+        position: relative;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        
+}
+
+.mail{
+    color: #00a388;
+}
+
+.call{
+    color: #00a388;
+}

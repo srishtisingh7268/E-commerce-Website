@@ -1,0 +1,18 @@
+.text {
+    color: white;
+}
+
+#nav-home>form>button {
+    width: 100%;
+}
+
+#nav-profile > form > button{
+    width: 100%;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: gray;
+}
+.cards-wrapper{
+    display: flex;
+}
